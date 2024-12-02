@@ -20,8 +20,6 @@ ________________________________
 - 🎮 Entusiasta de Homebrew e Desbloqueios de console
 - 🎵 Apaixonado por música
 
-________________________________
-
 - Linguaguens que possuo experiência/alguma experiência:
 
 <div style="display: inline_block"><br>
