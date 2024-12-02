@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4503ad&text=Oi!%20Eu%20sou%20o%20Giroto%20;)&fontSize=64&fontAlign=50&fontAlignY=35&fontColor=ffffff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=8f02fa&text=Oi!%20Eu%20sou%20o%20Giroto%20;)&fontSize=64&fontAlign=50&fontAlignY=35&fontColor=ffffff"/>
 
 ### • Bem-vindo ao meu github!
 
