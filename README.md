@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Oi!%20Eu%20sou%20o%20Giroto%20;)&textBg=false&animation=fadeIn&fontColor=ffffff"/>
 
-### Tudo bem? Bem-vindo ao meu github!
+### - Tudo bem? Bem-vindo ao meu github!
 
 __________________________________________________________________________________________
 
@@ -12,6 +12,7 @@ ________________________________________________________________________________
 <img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="2px">
 <a href="https://www.instagram.com/giroto.exe/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-instagram-7f38c1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noreferrer"></a>
 
+__________________________________________________________________________________________
 
 - 📖 Graduando em Engenharia de Software pela Universidade Filadélfia
 - 📖 Fiz Engenharia de Computação durante 3 anos na UTFPR
