@@ -20,7 +20,7 @@ ________________________________
 - 🎮 Entusiasta de Homebrew e Desbloqueios de console
 - 🎵 Apaixonado por música
 
-- Linguaguens que possuo experiência/alguma experiência:
+### • Linguaguens que possuo experiência/alguma experiência:
 
 <div style="display: inline_block"><br>
   
