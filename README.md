@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=3003fc&text=Oi!%20Eu%20sou%20o%20Giroto%20;)"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=3003fc&text=Oi!%20Eu%20sou%20o%20Giroto%20;)"/>
 
 ### • Bem-vindo ao meu github!
 
@@ -35,7 +35,7 @@ ________________________________
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3003fc&height=200&section=footer"/>
 
 <!--
 Here are some ideas to get you started:
