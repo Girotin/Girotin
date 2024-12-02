@@ -20,10 +20,14 @@ ________________________________
 - 🎮 Entusiasta de Homebrew e Desbloqueios de console
 - 🎵 Apaixonado por música
 
+________________________________
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Girotin&show_icons=true&count_private=true&hide_border=true&title_color=3590c7&icon_color=3590c7&text_color=c9d1d9&bg_color=0d1117" alt="Girotin github stats" />   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girotin&layout=compact&hide_border=true&title_color=3590c7&text_color=ffffff&bg_color=0d1117" />
 </div>
+
+________________________________
 
 <div align="center">
 <br><p align="centre"><b>Número de Visitantes</b></p>  
