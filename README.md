@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Oi!%20Eu%20sou%20o%20Giroto%20;)"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Oi!%20Eu%20sou%20o%20Giroto%20;)&textBg=false&animation=fadeIn"/>
 
 <!--
 Here are some ideas to get you started:
