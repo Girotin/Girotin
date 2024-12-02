@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=03e3fc&text=Oi!%20Eu%20sou%20o%20Giroto%20;)&fontSize=64&fontAlign=50&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4503ad&text=Oi!%20Eu%20sou%20o%20Giroto%20;)&fontSize=64&fontAlign=50&fontAlignY=35"/>
 
 ### • Bem-vindo ao meu github!
 
@@ -35,7 +35,7 @@ ________________________________
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03e3fc&height=200&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4503ad&height=200&section=footer"/>
 
 <!--
 Here are some ideas to get you started:
