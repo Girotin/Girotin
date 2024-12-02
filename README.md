@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Oi!%20Eu%20sou%20o%20Giroto%20;)"/>
 
-### Oi! Me chamo Gabriel Augusto Giroto, ou simplesmente Giroto 👋
-
 <!--
 Here are some ideas to get you started:
 
