@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0894fc&text=Oi!%20Eu%20sou%20o%20Giroto%20;)&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=ffffff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0894fc&text=Oi!%20Eu%20sou%20o%20Giroto%20;)&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=ffffff"/>
 
 ### • ☕ Bem-vindo ao meu github!
 
@@ -10,6 +10,8 @@
 <img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="2px">
 <a href="https://www.instagram.com/giroto.exe/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-instagram-7f38c1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noreferrer"></a>
 
+##
+
 ### • Sobre mim:
 
 - 📖 Graduando em Engenharia de Software pela Universidade Filadélfia
@@ -17,6 +19,8 @@
 - 💻 Desenvolvedor Fullstack em aprendizado
 - 🎮 Entusiasta de Homebrew e Desbloqueios de console
 - 🎵 Apaixonado por música
+
+##
 
 ### • Linguaguens que possuo experiência/alguma experiência:
 
@@ -33,7 +37,7 @@
   <img align="center" alt="Girotin-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   </div>
 
-________________________________
+##
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Girotin&show_icons=true&count_private=true&hide_border=true&title_color=0894fc&icon_color=0894fc&text_color=c9d1d9&bg_color=0d1117" alt="Girotin github stats" />   
