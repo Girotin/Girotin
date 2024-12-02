@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Oi!%20Eu%20sou%20o%20Giroto%20;)&textBg=false&animation=fadeIn&fontColor=ffffff"/>
 
+<a href="mailto:girotocontato@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+
 <br>
 
 - 📖 Graduando em Engenharia de Software pela Universidade Filadélfia
