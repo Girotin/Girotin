@@ -50,7 +50,7 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0894fc&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0894fc&height=130&section=footer"/>
 
 <!--
 Here are some ideas to get you started:
