@@ -10,8 +10,6 @@
 <img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="2px">
 <a href="https://www.instagram.com/giroto.exe/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-instagram-7f38c1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noreferrer"></a>
 
-________________________________
-
 ### • Sobre mim:
 
 - 📖 Graduando em Engenharia de Software pela Universidade Filadélfia
@@ -41,8 +39,6 @@ ________________________________
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Girotin&show_icons=true&count_private=true&hide_border=true&title_color=0894fc&icon_color=0894fc&text_color=c9d1d9&bg_color=0d1117" alt="Girotin github stats" />   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girotin&layout=compact&hide_border=true&title_color=0894fc7&text_color=ffffff&bg_color=0d1117" />
 </div>
-
-________________________________
 
 <div align="center">
 <br><p align="centre"><b>Número de Visitas</b></p>  
