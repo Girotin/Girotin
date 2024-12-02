@@ -45,7 +45,7 @@ ________________________________
 ________________________________
 
 <div align="center">
-<br><p align="centre"><b>Número de Visitantes</b></p>  
+<br><p align="centre"><b>Número de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{girotin}/count.svg" /></p> 
 <br>
 </div>
