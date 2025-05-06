@@ -3,8 +3,6 @@
 ### • ☕ Bem-vindo ao meu github!
 
 <a href="mailto:girotocontato@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-
-<img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="2px">
 <a href="https://giroto.netlify.app/" target="_blank" rel="noreferrer">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 <img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="2px">
 <a href="https://www.linkedin.com/in/giroto-desenvolvedor/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noreferrer"></a>
