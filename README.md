@@ -18,7 +18,7 @@
 - 🎵 Apaixonado por música
 
 ##
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
   <h3>Linguaguens que possuo experiência/alguma experiência</h3>
 
   <img align="center" alt="Girotin-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
