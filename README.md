@@ -20,7 +20,7 @@
 ##
 
 <div align="center" style="display: inline_block"><br>
-  ### Linguaguens que possuo experiência/alguma experiência:<br>
+  <h1>Linguaguens que possuo experiência/alguma experiência</h1><br>
   <img align="center" alt="Girotin-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Girotin-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="Girotin-JSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
