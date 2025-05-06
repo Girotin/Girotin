@@ -12,7 +12,7 @@
 ### • Sobre mim:
 
 - 📖 Graduando em Engenharia de Software pela Universidade Filadélfia
-- 🎓 Fiz Engenharia de Computação durante 3 anos na UTFPR
+- 🎓 Fiz Engenharia de Computação durante 3 anos na UTFPR-CP
 - 💻 Desenvolvedor Fullstack em aprendizado
 - 🎮 Entusiasta de Homebrew e Desbloqueios de console
 - 🎵 Apaixonado por música
