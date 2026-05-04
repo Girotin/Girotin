@@ -17,29 +17,6 @@
 - 🎮 Entusiasta de Homebrew e Desbloqueios de console
 - 🎵 Apaixonado por música
 
-##
-<div align="center" style="display: inline_block">
-  <h3>Linguaguens que possuo experiência/alguma experiência</h3>
-
-  <img align="center" alt="Girotin-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Girotin-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="Girotin-JSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Girotin-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Girotin-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Girotin-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Girotin-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">                
-  <img align="center" alt="Girotin-mySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
-  <img align="center" alt="Girotin-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  </div>
-
-##
-
-<div align="center">
-<br><p align="centre"><b>Número de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{girotin}/count.svg" /></p> 
-<br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0894fc&height=130&section=footer"/>
 
 <!--
