@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0894fc&text=Oi!%20Eu%20sou%20o%20Giroto%20;)&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=ffffff"/>
 
-### • ☕ Bem-vindo ao meu github!
+### • ☕ Bem-vindo ao meu github | Welcome!
 
 <a href="mailto:girotocontato@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://giroto.netlify.app/" target="_blank" rel="noreferrer">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
@@ -11,11 +11,11 @@
 
 ### • Sobre mim:
 
-- 📖 Graduando em Engenharia de Software pela Universidade Filadélfia
-- 🎓 Fiz Engenharia de Computação durante 3 anos na UTFPR-CP
+- 🎓 Graduando Engenharia de Software pela Universidade Filadélfia
+- 📖 Tive experiência com Engenharia da Computação durante 3 anos na UTFPR-CP
 - 💻 Desenvolvedor Fullstack em aprendizado
 - 🎮 Entusiasta de Homebrew e Desbloqueios de console
-- 🎵 Apaixonado por música
+- 🎵 Apaixonado por Música
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0894fc&height=130&section=footer"/>
 
